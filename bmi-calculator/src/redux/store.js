@@ -1,5 +1,5 @@
 import { applyMiddleware, combineReducers, legacy_createStore } from "redux";
-import thunk from "redux-thunk";
+import {thunk} from "redux-thunk";
 import homeReducer from "./Reducers/homeReducer";
 import quizReducer from "./Reducers/quizReducer";
 
