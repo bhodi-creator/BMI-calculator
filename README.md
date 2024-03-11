@@ -1,1 +1,1 @@
-# BMI-calculator
+# masai _quizz app
